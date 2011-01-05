@@ -1,0 +1,1 @@
+from utils import fibonacci_generatorn = 0for term in fibonacci_generator():    if len(str(term)) >= 1000:        print n        break            n += 1
